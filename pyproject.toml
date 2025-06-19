@@ -1,0 +1,5 @@
+[project]
+name = "rollinggo-hotel-skill-cn"
+version = "0.1.0"
+description = "全球酒店预订&低价监控提醒Skill，200万+精选酒店，独家优惠价格，让你的Agent轻松预订品质酒店，支持支付宝下单+查询历史订单，24 小时客服支持，全天候响应。"
+requires-python = ">=3.10"
