@@ -5,3 +5,4 @@ description = "全球酒店预订&低价监控提醒Skill，200万+精选酒店�
 requires-python = ">=3.10"
 # clarify the control flow
 # clarify the control flow
+# keep defaults in sync with the manifest
